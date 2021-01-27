@@ -14,5 +14,6 @@
         01_0001_0001_两数之和-Two Sum
         01_0002_0007_整数反转-Reverse Integer   
         01_0003_0009_回文数-Palindrome Number
+        01_0004_0014_最长公共前缀-Longest Common Prefix
 1.2 02_Medium->中等
 1.3 03_Hard->困难
